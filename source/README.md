@@ -1,0 +1,3 @@
+Cuz, teoretycznie mialem tu opisac co znajduje sie w pliku index.rst ale...
+jest tam poprostu belkot przygotowany do wygenerowania, nic wartego uwagi ale morzna zajrzec.
+W karzdym razie rzyche milego dnia.
