@@ -1,3 +1,1 @@
-Cuz, teoretycznie mialem tu opisac co znajduje sie w "source" ale...
-jest tam poprostu belkot przygotowany do wygenerowania, nic wartego uwagi ale morzna zajrzec.
-W karzdym razie rzyche milego dnia.
+
